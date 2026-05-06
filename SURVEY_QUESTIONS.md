@@ -1,203 +1,92 @@
-# Pera nai Vai - User Survey Questions
+# Pera nai Vai - Pre-Launch Market Research Survey
 
 ## Survey Overview
-This survey collects feedback to help improve Pera nai Vai and understand our user base better. It should take 5-8 minutes to complete.
+Help us understand your needs and pain points. This 3-minute survey will guide our app development. We're building a solution for South Asian users.
 
 ---
 
-## Section 1: Demographics & Basic Information
+## Pre-Launch Research (10 Questions)
 
-### Q1. What is your age group?
-**Type**: Multiple Choice
-- 13-17 years
-- 18-25 years
-- 26-35 years
-- 36-45 years
-- 46-55 years
-- 56+ years
-
-### Q2. What is your location?
+### Q1. What is your location?
 **Type**: Multiple Choice
 - Bangladesh
 - India
 - Pakistan
 - Nepal
-- United States
-- United Kingdom
-- Canada
-- Middle East (UAE, Saudi Arabia, etc.)
-- Australia
-- Other (Please specify)
+- Other South Asia
+- Diaspora (South Asian abroad)
 
-### Q3. What is your primary occupation?
-**Type**: Multiple Choice
-- Student
-- Freelancer/Consultant
-- Small Business Owner
-- Employee (Private Sector)
-- Employee (Government)
-- Self-Employed
-- Unemployed
-- Retired
-- Other (Please specify)
+### Q2. What problems do you face with image/document/data tools today?
+**Type**: Checkboxes (Select all that apply)
+- Limited free options
+- Paid subscriptions too expensive
+- Privacy concerns (data uploaded to cloud)
+- Poor performance/slow
+- Missing Bangladesh-specific features
+- Not mobile-friendly
+- Ads/spam in tools
+- Requires complex setup
 
-### Q4. How familiar are you with technology?
-**Type**: Multiple Choice
-- Very Basic (just browsing)
-- Basic (can use common apps)
-- Intermediate (comfortable with various tools)
-- Advanced (tech-savvy)
-- Expert (IT professional)
-
----
-
-## Section 2: Tool Usage & Preferences
-
-### Q5. Which tools have you used in Pera nai Vai? (Select all that apply)
+### Q3. Which tools do you currently use? (Select all that apply)
 **Type**: Checkboxes
-- JPEG Compressor
-- Photo Resizer
-- Tweet to Image
-- Color Palette
-- QR Code Generator
-- Email Extractor
-- Bangla Converter
-- BD Tax Calculator
-- Financial Calculator
-- Invoice Generator
-- Land Converter (Bangla)
-- MFS Helper
-- I haven't used any tools yet
+- Online image compressors
+- Photo editing apps
+- Financial calculators
+- QR code generators
+- Email extractors
+- Document converters
+- Bangla language tools
+- Other tools
 
-### Q6. How frequently do you use Pera nai Vai?
+### Q4. What is your biggest frustration with these tools?
+**Type**: Short Answer (1-2 sentences)
+
+### Q5. Would you prefer a tool that...? (Select top 2)
+**Type**: Checkboxes
+- Works offline (no data uploaded)
+- Multiple tools in one place
+- Free with no ads
+- Fast and lightweight
+- Designed for South Asian users
+- Mobile-optimized
+- Privacy-focused
+
+### Q6. What specific features do you need most?
+**Type**: Checkboxes (Select top 3)
+- Image compression/resizing
+- Bangla text conversion
+- Financial calculations (tax, currency)
+- QR code generation
+- Invoice/document generation
+- Email list extraction
+- Other (Please specify)
+
+### Q7. How often would you use such a tool?
 **Type**: Multiple Choice
 - Daily
-- 3-4 times per week
-- Once a week
-- 2-3 times per month
-- Once a month
+- Few times a week
+- Weekly
+- Occasionally
 - Rarely
-- First time visitor
 
-### Q7. What is the primary reason you use Pera nai Vai?
+### Q8. Would you use a free offline tool instead of paying for cloud services?
 **Type**: Multiple Choice
-- Image processing/editing
-- Financial calculations
-- Text conversion/extraction
-- QR code generation
-- Invoicing
-- General productivity
-- To avoid paid tools
-- Privacy protection
-- Other (Please specify)
+- Definitely yes
+- Probably yes
+- Maybe
+- Probably not
+- Definitely not
 
-### Q8. Which feature is MOST important to you? (Rank top 3)
-**Type**: Ranking Scale
-- Free pricing (no cost)
-- Offline functionality
-- Data privacy (local processing)
-- Multiple tools in one place
-- Mobile app availability
-- Easy to use interface
-- Fast performance
-- Bangladesh-specific tools
-- Dark/light theme
-- Community support
-
-### Q9. How likely are you to recommend Pera nai Vai to others?
-**Type**: Scale (1-10)
-- 1 (Very unlikely) to 10 (Extremely likely)
-
-**Follow-up**: Why did you give this rating?
-**Type**: Short Answer (3-5 lines)
-
----
-
-## Section 3: Satisfaction & User Experience
-
-### Q10. How would you rate your overall satisfaction with Pera nai Vai?
-**Type**: Scale (1-5)
-- 1 - Very Dissatisfied
-- 2 - Dissatisfied
-- 3 - Neutral
-- 4 - Satisfied
-- 5 - Very Satisfied
-
-### Q11. How would you rate the following aspects? (Rate each 1-5)
-**Type**: Matrix Scale
-
-| Aspect | Poor | Fair | Good | Very Good | Excellent |
-|--------|------|------|------|-----------|-----------|
-| User Interface Design | 1 | 2 | 3 | 4 | 5 |
-| Ease of Use | 1 | 2 | 3 | 4 | 5 |
-| Tool Accuracy/Functionality | 1 | 2 | 3 | 4 | 5 |
-| Speed & Performance | 1 | 2 | 3 | 4 | 5 |
-| Mobile Experience | 1 | 2 | 3 | 4 | 5 |
-| Documentation/Help | 1 | 2 | 3 | 4 | 5 |
-| Offline Functionality | 1 | 2 | 3 | 4 | 5 |
-
-### Q12. Have you experienced any technical issues?
+### Q9. What's preventing you from building these tools yourself?
 **Type**: Multiple Choice
-- No issues at all
-- Minor issues (occasional glitches)
-- Moderate issues (affects usability)
-- Significant issues (major problems)
-- Not sure
+- Don't have coding skills
+- Too time-consuming
+- No suitable platforms
+- Prefer ready-made solutions
+- Not applicable (I can build)
 
-**If "Yes", Please describe**:
-**Type**: Long Answer (10-50 words)
-
-### Q13. Which device do you primarily use Pera nai Vai on?
-**Type**: Multiple Choice
-- Smartphone (Android)
-- Smartphone (iPhone)
-- Tablet
-- Desktop/Laptop
-- Equally on multiple devices
-
-### Q14. How did you discover Pera nai Vai?
-**Type**: Multiple Choice
-- Google Search
-- Social Media (Facebook, Instagram, TikTok)
-- Friend/Family Recommendation
-- GitHub
-- Online Forum/Community
-- Advertisement
-- Other (Please specify)
-
----
-
-## Section 4: Feature Requests & Improvements
-
-### Q15. Which tools would you like to see added? (Select up to 3)
-**Type**: Checkboxes
-- Video compression/editing
-- PDF tools (merge, split, compress)
-- Document converter (Word to PDF, etc.)
-- Audio processor (trim, convert)
-- Spreadsheet calculator
-- Grammar checker
-- Language translator
-- SEO analyzer
-- Password generator
-- Cryptocurrency calculator
-- Budget/Expense tracker
-- Calendar/Schedule planner
-- Other (Please specify)
-
-### Q16. What improvements would most enhance your experience?
-**Type**: Checkboxes (Select top 3)
-- Better user interface design
-- More tools/features
-- Faster performance
-- Mobile app improvements
-- Better documentation
-- Community features (share/collaborate)
-- API for integration
-- Multi-language support (more languages)
-- Dark mode improvements
-- Customization options
-- Cloud sync across devices
+### Q10. Any other problems or feature ideas we should know?
+**Type**: Short Answer (1-3 sentences)
 - Premium features (with free tier)
 
 ### Q17. Would you like a premium/paid tier with advanced features?
