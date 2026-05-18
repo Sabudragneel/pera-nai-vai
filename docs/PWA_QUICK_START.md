@@ -22,7 +22,7 @@ Users can:
 
 2. **Open icon generator in browser:**
    ```
-   http://localhost:5173/generate-icons.html
+   http://localhost:5173/tools/generate-icons/generate-icons.html
    ```
 
 3. **Click "Generate All Icons" button**
@@ -95,12 +95,12 @@ git push
 3. **If you added new files, list them in `sw.js`:**
    ```javascript
    // Around line 20 in sw.js
-   const TOOL_PAGES = [
-     '/jpeg-compressor.html',
-     '/qr-generator.html',
-     // ... other tools
-     '/your-new-tool.html'  // ← Add your new tool here
-   ];
+    const TOOL_PAGES = [
+       '/tools/jpeg-compressor/jpeg-compressor.html',
+       '/tools/qr-generator/qr-generator.html',
+       // ... other tools
+       '/tools/your-new-tool/your-new-tool.html'  // ← Add your new tool here
+    ];
    ```
 
 4. **Deploy:**

@@ -7,44 +7,44 @@ const CACHE_NAME = `${CACHE_VERSION}`;
 const CORE_CACHE_FILES = [
   '/',
   '/index.html',
-  '/tools.css',
-  '/theme.js',
-  '/category-filter.js',
-  '/donate.js',
-  '/components.css',
-  '/bkash_donate_pera_nai_vai.jpg'
+  '/assets/css/tools.css',
+  '/assets/js/theme.js',
+  '/assets/js/category-filter.js',
+  '/assets/js/donate.js',
+  '/assets/css/components.css',
+  '/assets/icons/bkash_donate_pera_nai_vai.jpg'
 ];
 
 // Tool pages - cached on first visit
 const TOOL_PAGES = [
-  '/jpeg-compressor.html',
-  '/tweet-to-image.html',
-  '/qr-generator.html',
-  '/email-extractor.html',
-  '/invoice-generator.html',
-  '/photo-resizer.html',
-  '/bangla-converter.html',
-  '/financial-calculators.html',
-  '/bd-tax-calculator.html',
-  '/mfs-helper.html',
-  '/land-converter.html',
-  '/color-palette.html'
+  '/tools/jpeg-compressor/jpeg-compressor.html',
+  '/tools/tweet-to-image/tweet-to-image.html',
+  '/tools/qr-generator/qr-generator.html',
+  '/tools/email-extractor/email-extractor.html',
+  '/tools/invoice-generator/invoice-generator.html',
+  '/tools/photo-resizer/photo-resizer.html',
+  '/tools/bangla-converter/bangla-converter.html',
+  '/tools/financial-calculators/financial-calculators.html',
+  '/tools/bd-tax-calculator/bd-tax-calculator.html',
+  '/tools/mfs-helper/mfs-helper.html',
+  '/tools/land-converter/land-converter.html',
+  '/tools/color-palette/color-palette.html'
 ];
 
 // Tool JavaScript files
 const TOOL_SCRIPTS = [
-  '/jpeg-compressor.js',
-  '/qr-generator.js',
-  '/email-extractor.js',
-  '/invoice-generator.js',
-  '/photo-resizer.js',
-  '/bangla-converter.js',
-  '/financial-calculators.js',
-  '/bd-tax-calculator.js',
-  '/mfs-helper.js',
-  '/land-converter.js',
-  '/color-palette.js',
-  '/ToolBase.js'
+  '/tools/jpeg-compressor/jpeg-compressor.js',
+  '/tools/qr-generator/qr-generator.js',
+  '/tools/email-extractor/email-extractor.js',
+  '/tools/invoice-generator/invoice-generator.js',
+  '/tools/photo-resizer/photo-resizer.js',
+  '/tools/bangla-converter/bangla-converter.js',
+  '/tools/financial-calculators/financial-calculators.js',
+  '/tools/bd-tax-calculator/bd-tax-calculator.js',
+  '/tools/mfs-helper/mfs-helper.js',
+  '/tools/land-converter/land-converter.js',
+  '/tools/color-palette/color-palette.js',
+  '/assets/js/ToolBase.js'
 ];
 
 // Install event - cache core files

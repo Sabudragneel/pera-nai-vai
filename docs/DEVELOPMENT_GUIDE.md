@@ -34,10 +34,10 @@ For a new tool called "my-tool":
 pera-nai-vai/
 ├── my-tool.html          # Copy from templates/
 ├── my-tool.js            # Your tool logic
-├── tools.css             # Already exists (global styles)
-├── components.css        # Already exists (component library)
-├── theme.js              # Already exists (theme management)
-└── wardrobe-menu.js      # Already exists (navigation)
+├── assets/css/tools.css             # Already exists (global styles)
+├── assets/css/components.css        # Already exists (component library)
+├── assets/js/theme.js              # Already exists (theme management)
+└── assets/js/wardrobe-menu.js      # Already exists (navigation)
 ```
 
 ### 3. Basic Workflow
@@ -333,7 +333,7 @@ The `ToolBase` class provides common functionality:
 #### 1. Automatic Theme Management
 
 ```javascript
-import { ToolBase } from './ToolBase.js';
+import { ToolBase } from 'assets/js/ToolBase.js';
 
 class MyTool extends ToolBase {
     constructor() {
@@ -425,7 +425,7 @@ this.debounce(func, 300);            // Debounce function
 ### Complete ToolBase Example
 
 ```javascript
-import { ToolBase } from './ToolBase.js';
+import { ToolBase } from 'assets/js/ToolBase.js';
 
 class TextCounter extends ToolBase {
     constructor() {
@@ -533,8 +533,8 @@ cp templates/tool-template-split.html text-case-converter.html
 </div>
 
 <script type="module" src="text-case-converter.js"></script>
-<script type="module" src="theme.js"></script>
-<script type="module" src="wardrobe-menu.js"></script>
+<script type="module" src="assets/js/theme.js"></script>
+<script type="module" src="assets/js/wardrobe-menu.js"></script>
 ```
 
 #### Step 3: Create JavaScript File
@@ -542,7 +542,7 @@ cp templates/tool-template-split.html text-case-converter.html
 `text-case-converter.js`:
 
 ```javascript
-import { ToolBase } from './ToolBase.js';
+import { ToolBase } from 'assets/js/ToolBase.js';
 
 class TextCaseConverter extends ToolBase {
     constructor() {

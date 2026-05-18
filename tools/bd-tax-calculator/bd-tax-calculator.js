@@ -1,4 +1,4 @@
-import { ToolBase } from './ToolBase.js';
+import { ToolBase } from '../../assets/js/ToolBase.js';
 
 /**
  * Bangladesh Income Tax Calculator
